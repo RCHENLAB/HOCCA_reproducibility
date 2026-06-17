@@ -3,7 +3,7 @@
 This repository contains code and analyses for the Human Ocular Surface Cell Atlas project within the HCA framework, with an emphasis on the [Eye Biological Network](https://www.humancellatlas.org/biological-networks/). Here, the ocular surface includes the cornea, limbus, and anterior sclera. 
 
 ## System requirements
-The pipeline is expected to run on standard Linux-based high-performance computing environments with R and Python installed. The full workflow was tested on Linux Rocky Linux 8.8 and above. No required non-standard hardware
+The pipeline is expected to run on standard Linux-based high-performance computing environments with R and Python installed. The full workflow was tested on Linux Rocky Linux 8.8 and above. No non-standard hardware required.
 - R version: R 4.3.2 
 - Python version: Python v3.10 and above
 
